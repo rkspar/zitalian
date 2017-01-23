@@ -975,6 +975,11 @@ blockquote cite {
 
 .btn.btn-custom {
   color: #fff;
+  background-color: #fff;
+  border-color: #e53935;
+}
+.btn.btn-custom2 {
+  color: #fff;
   background-color: #e53935;
   border-color: #e53935;
 }
@@ -999,8 +1004,8 @@ blockquote cite {
 
 .btn.btn-custom2 {
   color: #fff;
-  background-color: #2196F3;
-  border-color: #2196F3;
+  background-color: #B22222;
+  border-color: #ffffff;
 }
 
 .btn.btn-custom2:hover, .btn.btn-custom2:focus {
